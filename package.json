@@ -1,0 +1,26 @@
+{
+  "name": "minejs",
+  "version": "1.0.0",
+  "description": "Ardians Minecraft World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardian/MineJS.git"
+  },
+  "keywords": [
+    "voxeljs",
+    "minecraft"
+  ],
+  "author": "Ardian Haxha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardian/MineJS/issues"
+  },
+  "homepage": "https://github.com/ardian/MineJS#readme",
+  "devDependencies": {
+    "voxel-engine": "^0.20.2"
+  }
+}
